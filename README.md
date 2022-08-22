@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sam-wd
-- 👀 I’m interested in full stack web development...
-- 🌱 I’m currently learning javascript ...
+- 👋 Hi, I’m Seema Giri[Sam Web Developer - (sam-wd)]
+- 👀 Working with JAVA 
+- 🌱 Learning Front-End-Development
 
 
 <!---
