@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Seema Giri[Sam Web Developer - (sam-wd)]
+- 👋 Hi, I’m Seema Giri
 - 👀 Working with JAVA 
 - 🌱 Learning Front-End-Development
 
